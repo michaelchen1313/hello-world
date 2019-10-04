@@ -1,2 +1,2 @@
 # hello-world
-learning how github works
+Hi there, my name's Michael Chen. I'm an undegrad at WashU learning computer science.
